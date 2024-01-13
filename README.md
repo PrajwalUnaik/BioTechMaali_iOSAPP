@@ -1,4 +1,6 @@
-# BioTechMaali - Gardening App
+![Biotech-Maali-Logo-website-use](https://github.com/PrajwalUnaik/BioTechMaali_iOSAPP/assets/148428641/bbbdc202-6603-4d70-b97e-b5dd572e1c88)
+
+# BioTechMaali - Gardening App(in-Works)
 
 BioTechMaali is a gardening app designed to help you explore plants, watch informative videos, and showcase your beautiful garden in a gallery.
 
