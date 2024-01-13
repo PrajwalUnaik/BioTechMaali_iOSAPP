@@ -1,33 +1,49 @@
 ![Biotech-Maali-Logo-website-use](https://github.com/PrajwalUnaik/BioTechMaali_iOSAPP/assets/148428641/bbbdc202-6603-4d70-b97e-b5dd572e1c88)
 
-# BioTechMaali - Gardening App(in-Works)
+# BioTechMaali - Your Gardening Companion
 
-BioTechMaali is a gardening app designed to help you explore plants, watch informative videos, and showcase your beautiful garden in a gallery.
+https://www.thebiotechmaali.com/
+
+BioTechMaali is an iOS app designed to enhance your gardening experience by providing valuable information about plants, curated videos, a gallery of beautiful gardens, and a seamless browsing experience.
 
 ## Features
 
-- **Browse Plants**: Explore a variety of plants and learn more about their characteristics.
-- **YouTube Videos**: Watch gardening tutorials and informative videos to enhance your gardening skills.
-- **Plants Collection**: Create and manage your collection of favorite plants.
-- **Gallery**: Share the beauty of your garden by adding and viewing photos in the gallery.
+- **Browse:** Explore a variety of plants with detailed information on care, growth, and maintenance.
+  
+- **Youtube:** Access a collection of informative gardening videos to learn new techniques and tips.
+  
+- **Plants:** Discover a wide range of plants suitable for different environments and climates.
+  
+- **Gallery:** Enjoy a visual feast with a gallery showcasing stunning gardens and plant arrangements.
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-
-<img src="https://example.com/screenshot1.png" alt="Screenshot 1" width="200" />
-
-<img src="https://example.com/screenshot2.png" alt="Screenshot 2" width="200" />
-
-<img src="https://example.com/screenshot3.png" alt="Screenshot 3" width="200" />
-
-</div>
+![Browse](screenshots/browse.png)
+![Youtube](screenshots/youtube.png)
+![Plants](screenshots/plants.png)
+![Gallery](screenshots/gallery.png)
 
 ## Getting Started
 
-To get started with BioTechMaali, follow these steps:
+1. **Requirements:**
+    - Xcode (version X or above)
+  
+2. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/PrajwalUnaik/BioTechMaali_iOSAPP.git
+    ```
 
-1. Clone the repository:
+3. **Open in Xcode:**
+    Open the project in Xcode and run it on your simulator or a physical device.
 
-   ```bash
-   git clone https://github.com/PrajwalUnaik/BioTechMaali_iOSAPP.git
+## Contributing
+
+Contributions are welcome! If you find a bug, have a feature request, or want to contribute in any way, please open an issue or create a pull request.
+
+
+## Acknowledgments
+
+- Thanks to the contributors who helped make BioTechMaali even better!
+- Plant images and information sourced from reputable gardening databases.
+
+Happy gardening!
